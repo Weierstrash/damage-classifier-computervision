@@ -1,6 +1,6 @@
 # Building Damage Classifier
 
-A computer vision model that classifies building damage severity from post-disaster satellite imagery. Fine-tunes a pretrained ResNet18 on the xBD datase to predict one of four damage classes per building chip.
+A computer vision model that classifies building damage severity from post-disaster satellite imagery. Fine-tuned a pretrained ResNet18 on the xBD datase to predict one of four damage classes per building.
 
 ## Classes
 
